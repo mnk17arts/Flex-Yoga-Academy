@@ -56,7 +56,10 @@ step 6: API I have created has following files:
 
 step 7: Finally the website is created and worked as expected and the data is stored in the database as well. (on the local machine)
 
-The website is hosted on github pages and can be accessed using the following link: [Flex Yoga Academy](https://mnk17arts.github.io/flex-yoga-academy/)
+The Live Demo of this project is stored in the Video Format as shown below
+
+https://user-images.githubusercontent.com/71878747/212526675-a86844bc-2521-444b-b18f-1e4356409c52.mp4
+
 
 
 
